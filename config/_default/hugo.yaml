@@ -1,6 +1,6 @@
 # Core Hugo configuration for the website.
 title: Mathilde Badufle
-baseURL: 'https://mathildebdle.github.io/websiteacademic/'
+baseURL: 'https://mathildebadufle.github.io/websiteacademic/'
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
